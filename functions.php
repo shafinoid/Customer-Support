@@ -1,8 +1,7 @@
-/**
-*Add this file to \wp-content\plugins\dokan-lite\includes\
-*/
-
 <?php
+
+//Add this file to "\wp-content\plugins\dokan-lite\includes\"
+
 /**
  * Dokan Admin menu position
  *
