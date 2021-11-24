@@ -1,6 +1,6 @@
 <? php
 
-//ingnore copy from line 5-173
+//start copying from line 5-173
 
 //Hide or modify fields on the setup wizard
 class Dokan_Setup_Wizard_Override extends Dokan_Seller_Setup_Wizard {
